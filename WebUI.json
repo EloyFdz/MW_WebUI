@@ -1,0 +1,94 @@
+{
+    "WBUI2": {
+        "settings": {
+            "openbutton": 1,
+            "hideicon": false,
+            "hideiconafter": 60,
+            "iconurl": "https://imgur.com/gallery/mw-GyODxOK#UvHPHj8",
+            "disableicontext": true,
+            "iconposition": 3,
+            "icontextcolor": 5,
+            "openonstart": true,
+            "openonstartonlynewplayers": true,
+            "updateinterval": 12
+        },
+        "tabs": [
+            {
+                "layout": 1,
+                "buttontext": "Inicio",
+                "imageurl": "cropped-Logo-final-mws.png",
+                "content": [
+                    {
+                        "title": "",
+                        "text": "\r\nMilicroca es una comunidad gaming fundada en 2016 para los amantes de los juegos de supervivencia. Nos enfocamos exclusivamente en el modo PvE, ofreciendo una experiencia cooperativa, sin toxicidad ni competencia destructiva.\r\n\r\nContamos con servidores de ARK: Survival Ascended (con mods) y ARK: Survival Evolved (sin mods), todos conectados en clúster para una experiencia completa y sin límites.\r\n\r\nTambién ofrecemos servidores de otros títulos de supervivencia como 7 Days to Die, Palworld, Conan Exiles y más.\r\n\r\nNuestros servidores están alojados en nuestro propio datacenter, activo todo el año gracias al esfuerzo del staff y el apoyo de nuestra comunidad. Esto garantiza estabilidad, mínima latencia y disponibilidad 24/7.\r\n\r\nContamos con un staff comprometido y accesible, listo para ayudarte tanto en Discord como en el juego. Si tienes cualquier duda o problema, no dudes en contactarnos.\r\n\r\n¡Esperamos que disfrutes de Milicroca y todos nuestros servidores!"
+                    }
+                ]
+            },
+            {
+                "layout": 4,
+                "buttontext": "Normas",
+                "imageurl": "https:",
+                "content": [
+                    {
+                        "title": "Generales",
+                        "text": "• Respeta a todos los jugadores. No se permiten insultos, amenazas, acoso ni toxicidad.\r\n\r\n• Prohibido el contenido ofensivo, sexual, nazi o radical.\r\n\r\n• No está permitido el PvP: nada de atraer dinos a otras bases, agarrar jugadores ni matar/robar.\r\n\r\n• Cualquier acción PvP se sanciona con baneo permanente.\r\n\r\n• Está prohibido el uso de bugs, exploits o trampas del juego, mods o plugins.\r\n\r\n• Si se detecta su uso sin reportarlo, se aplicará baneo permanente.\r\n\r\n• Sé respetuoso con el staff. No se permiten exigencias ni solicitudes de regalos.\r\n\r\n• Usa Discord o tickets para reportar problemas o pedir ayuda."
+                    },
+                    {
+                        "title": "Tribus y Personajes",
+                        "text": "• El nombre de personaje debe ser el mismo en todos los mapas.\r\n\r\n• No se permiten nombres genéricos, ilegibles o inapropiados.\r\n\r\n• El nombre de tribu también debe ser idéntico en todos los mapas.\r\n\r\n• Cada tribu es responsable de sus miembros, pertenencias y genética.\r\n\r\n• Configura bien el gobierno de tribu y protege tus dinos.\r\n\r\n• Todo teleport fuera de base debe estar desbloqueado para uso común.\r\n\r\n• Los teleport dentro de base pueden estar cerrados.\r\n\r\n• Los administradores pueden ingresar a tribus si es necesario para aplicar sanciones o ayudar."
+                    },
+                    {
+                        "title": "Construcción",
+                        "text": "• Solo 1 base por mapa y tribu. Cualquier estructura con cama cuenta como base.\r\n\r\n• Prohibido construir en obeliscos, cuevas, zonas de spawn, notas, etc. (ver wiki.gg)\r\n\r\n• La base debe tener un tamaño proporcional. Nada de ocupar zonas enormes sin usar.\r\n\r\n• Solo el staff puede notificar sobre terrenos mal usados.\r\n\r\n• Todo lo usado fuera de base debe retirarse tras su uso (trampas, cajas, armarios, etc).\r\n- No retirarlas conlleva sanciones como la pérdida de dinos.\r\n\r\n• Prohibido bloquear zonas de paso. Si se cierra algo, debe tener puertas verdes y desbloqueadas.\r\n\r\n• Prohibido \"reservar\" terrenos con pilares o estructuras vacías.\r\n\r\n• Construir trenes o vías está prohibido: causa lag y bloquea zonas."
+                    },
+                    {
+                        "title": "Dinos y Recursos",
+                        "text": "• Prohibido tener dinos en agresivo fuera de base. Serán eliminados sin aviso.\r\n\r\n• Prohibido dejar Oasisaur fuera de base: genera lag.\r\n\r\n• No tirar huevos fertilizados por el mapa: se sanciona con la pérdida de dinos.\r\n\r\n• No se pueden domesticar dinos de cueva con más de lvl 150.\r\n\r\n• Prohibido criar o clonar dinos de nivel 600 o 1200. Sanción: baneo permanente.\r\n\r\n• Los drops pertenecen al primer jugador que llega. Vacíalos por completo.\r\n\r\n• Grifos de savia, bombas de aceite y recolectores de gas deben estar desbloqueados.\r\n\r\n• Las plantas Z solo permitidas en Aberration (máx. 6 por tribu). - -En otros mapas serán destruidas."
+                    }
+                ]
+            },
+            {
+                "layout": 4,
+                "buttontext": "Configuración",
+                "imageurl": "",
+                "content": [
+                    {
+                        "title": "Multiplicadores",
+                        "text": "• Farmeo: x3\r\n• Experencia: x1\r\n• Tameo: x3\r\n• Incubacion & Gestación: x6\r\n• Maduración & Crecimiento: x5\r\n• Calidad Drops: x1.6\r\n• Loot Pesca: x2"
+                    },
+                    {
+                        "title": "Configuración Adicional",
+                        "text": "• Max Nivel Dinos Salvajes: 150\r\n• Max Nivel Dinos Salvajes Tek: 180\r\n• Niveles para subir despues del Tameo: 120\r\n• Max Nivel Personaje: 105 + Ascensiones + 5 Chivi + 10 notas + 10 bob tales = 175\r\n• Max Dinos por Tribu: 150 | Gachas: 4\r\n• Tiempo de Ítems, Dinos y Pj en la nube: 48 horas\r\n• Poción de Amnesia sin cooldown\r\n• Velocidad habilita en Dinos y Personajes\r\n• Stacks de: 2.500\r\n• Max de jugadores en tribu: 10\r\n• Limite de estructuras: 6.000\r\n• Bosses con resistencia aumentada: Medio x2 | Difícil x4"
+                    },
+                    {
+                        "title": "Multiplicadores Fin de Semana",
+                        "text": "Todos los viernes a las 23:00 y hasta el domingo a las 23:00:\r\n\r\n• Experencia: x3\r\n• Farmeo: x6\r\n• Tameo: x5\r\n\r\nAprovecha el finde para, tamear, farmear y subir de nivel mucho más rápido."
+                    },
+                    {
+                        "title": "Decay",
+                        "text": "Estos son los tiempos de decay de Estructuras, Dinos y Personajes:\r\n\r\n• Jugador sin Verificarse: 3 días\r\n\r\n• Jugador Verificado: 15 días\r\n\r\n• Jugador Vip: 30 días\r\n\r\n- Pausado del decay solo disponible para jugadores Vips"
+                    }
+                ]
+            }
+        ],
+        "links": [
+            {
+                "text": "Web Milicroca",
+                "url": "https://milicrocawarriors.com/"
+            },
+            {
+                "text": "Discord",
+                "url": "https://discord.gg/DrVVuWD"
+            },
+            {
+                "text": "Vips",
+                "url": "https://milicrocawarriors.com/vip/"
+            },
+            {
+                "text": "Vota",
+                "url": "https://milicrocawarriors.com/votanos/"
+            }
+        ],
+        "version": 2
+    }
+}
