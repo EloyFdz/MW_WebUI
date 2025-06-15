@@ -6,7 +6,7 @@
             "hideiconafter": 60,
             "iconurl": "https://i.imgur.com/UvHPHj8.png",
             "disableicontext": true,
-            "iconposition": 3,
+            "iconposition": 0,
             "icontextcolor": 5,
             "openonstart": true,
             "openonstartonlynewplayers": true,
